@@ -42,6 +42,7 @@ Score from the first level will be carried onto the easter level, when the playe
 
 
 Summary of Completed Features
+
 •	Art and Animation(All)
 •	Font taken from Internet
 •	Scripts
