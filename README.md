@@ -1,6 +1,7 @@
 COM436 2D Coursework: "Dino Roll"
 
 Intro 
+
 The game is based around a dinosaur who’s aim is to collect as many berries as possible in order to bring home to his fellow dinosaurs. It begins with Dino being in the forest where he has to jump over a range of obstacles in order to get the berries. If he gets past a certain point there will be an easter egg waiting to be unlocked. This will take him to the clouds where the berries will be falling, but watch out it’s not as easy as he thinks. There is more than one type of berry and he can now change the color of his markings! Mixed berries can be collected by any color of skin, pink berries only by pink skin and purple berries only by purple skin. 
 
 •	Art and Animation 
@@ -38,6 +39,8 @@ Having the moving clouds within the easter egg level was something I though I’
 
 •	Score(database using MySQL on Dunluce server) 
 Score from the first level will be carried onto the easter level, when the player dies it will then produce the end screen to enable them to type in their name along with their score and submit it. Within the highscore page the user will then be able to go and see the top 5 scores.
+
+
 Summary of Completed Features
 •	Art and Animation(All)
 •	Font taken from Internet
